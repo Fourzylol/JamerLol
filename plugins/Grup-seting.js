@@ -18,7 +18,7 @@ ${usedPrefix + command} <buka/tutup>
 Contoh:
 ${usedPrefix + command} tutup
 ${usedPrefix + command} buka
-	`.trim(), '© stikerin', 'Buka', ',grup 1', 'Tutup', ',grup 0', m)
+	`.trim(), '©JemerBot', 'Buka', ',grup 1', 'Tutup', ',grup 0', m)
 		throw 0
 	}
 	await conn.groupSettingChange(m.chat, GroupSettingChange.messageSend, isClose)
