@@ -19,7 +19,7 @@ Ketik ${usedPrefix}hint untuk bantuan
     await conn.sendButtonImg(m.chat, json.img, caption, '© stikerin', 'Bantuan', '.hint', m),
     json, poin,
     setTimeout(() => {
-      if (conn.tebakgambar[id]) conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.jawaban}*`, '© stikerin', 'Tebak Gambar', '.tebakgambar', conn.tebakgambar[id][0])
+      if (conn.tebakgambar[id]) conn.sendButton(m.chat, `Waktu habis!\nJawabannya adalah *${json.jawaban}*`, '©JemerBot', 'Tebak Gambar', '.tebakgambar', conn.tebakgambar[id][0])
       delete conn.tebakgambar[id]
     }, timeout)
   ]
