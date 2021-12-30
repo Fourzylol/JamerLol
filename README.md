@@ -119,5 +119,5 @@ conn.logger.level = 'debug'
 
  [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![FourzyLol](https://github.com/Fourzylol.png?size=100)](https://github.com/FourzyLol/JamerLol)
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Yudhitya](https://github.com/Fourzylol/JamerLol)
+[Nurutomo](https://github.com/Nurutomo) | [FourzyLol](https://github.com/Fourzylol/JamerLol)
  Penulis / Pencipta | Penulis ulang
