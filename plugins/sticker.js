@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   finally {
     if (stiker) await conn.sendFile(m.chat, stiker, '', '', m, 0, { asSticker: true })
     else {
-      return conn.sendButton(m.chat, `Balas media dengan perintah *${usedPrefix + command}*`, '© stikerin', 'Aktifkan Stiker Otomatis', '.1 s', m)
+      return conn.sendButton(m.chat, `Balas media dengan perintah *${usedPrefix + command}*`, '©JemerBot', 'Aktifkan Stiker Otomatis', '.1 s', m)
     }
   }
 }
