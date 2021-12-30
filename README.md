@@ -1,12 +1,10 @@
 <p align="center">
 	<img src="https://i.ibb.co/jr9Nh6Q/Thumb.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">stikerinbot</h1>
+<h1 align="center">FourzyLol-Bot</h1>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ariffb25/stikerinbot)
-
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fourzylol/JamerLol)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
@@ -16,8 +14,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ariffb25/stikerinbot
-cd stikerinbot
+git clone https://github.com/Fourzylol/JamerLol
+cd JamerLol
 npm i
 npm update
 node .
@@ -119,7 +117,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Yudhitya](https://github.com/FourzyLol/JamerLol)
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25)
+[Nurutomo](https://github.com/Nurutomo) | [Yudhitya](https://github.com/Fourzylol/JamerLol)
  Penulis / Pencipta | Penulis ulang
